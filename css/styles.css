@@ -1,0 +1,156 @@
+body {
+  color: #40514E;
+  text-align: center;
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 120%;
+}
+
+h1 {
+  font-size: 80px;
+  margin-top: 0;
+  font-family: 'Dancing Script', sans-serif;
+  color: #FF5C58;
+}
+
+h2 {
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #66bfbf;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: "Exo 2",sans-serif;
+  font-weight: bold;
+  color: #66bfbf;
+}
+
+.pro {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 25px;
+  font-weight: bold;
+  color: #FF5C58;
+}
+
+.vky {
+  padding-top: 40px;
+  width: 20%;
+
+}
+
+.pgm {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+.skill-row {
+  width: 60%;
+  margin: 50px auto;
+  text-align: left;
+  padding: 20px 0;
+}
+
+.gmr {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.cs {
+  width: 12%;
+}
+
+.top-container {
+  background-color: #bae9e0;
+  padding-top: 150px;
+  position: relative;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+p {
+    font-family: 'Rubik', sans-serif;
+    line-height: 2;
+}
+
+.middle-container {
+  margin: 60px 0;
+}
+
+hr {
+  border: dotted 8px;
+  color: #87AAAA;
+  border-bottom: none;
+  width: 6%;
+  margin: 100px auto;
+}
+
+.cm {
+  width: 47%;
+  margin: 40px auto 60px;
+  padding-bottom: 40px;
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Exo 2",sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+
+a {
+  color: #11999e;
+  font-family: 'Exo 2', sans-serif;
+  margin: 10px 5px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding-top: 10px;
+}
+
+.cp {
+  width: 60%;
+  margin: auto;
+}
